@@ -1,0 +1,52 @@
+Python has various built-in data types categorized into:
+
+Numeric Types
+int = Integer values (e.g., x = 10)
+float = Decimal values (e.g., y = 3.14)
+complex = Complex numbers (e.g., z = 2 + 3j)
+
+Sequence Types
+str = String (e.g., name = "Python")
+list = Ordered, mutable (e.g., mylist = [1, 2, 3])
+tuple = Ordered, immutable (e.g., mytuple = (1, 2, 3))
+
+Set Types
+set = Unordered, no duplicates (e.g., s = {1, 2, 3})
+frozenset = Immutable version of set
+
+Mapping Type
+dict = Key-value pairs (e.g., d = {'a': 1, 'b': 2})
+
+Boolean Type
+bool = True or False
+
+Binary Types
+bytes, bytearray, memoryview – for binary data handling
+
+None Type
+NoneType → Represents absence of value (e.g., x = None)
+
+Special Keywords
+Python has reserved words that cannot be used as identifiers (variable names, functions, etc.).
+
+Control Flow
+if, elif, else
+while, for, break, continue
+pass = placeholder (does nothing)
+
+Function & Class Definitions
+def = define a function
+lambda = anonymous function
+class = define a class
+
+Error Handling
+try, except, finally, raise, assert
+
+Importing Modules
+import, from, as
+
+Boolean & None
+True, False, None
+
+Logical Operators
+and, or, not, is, in
