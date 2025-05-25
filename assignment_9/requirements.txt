@@ -1,4 +1,6 @@
 streamlit
 pyrebase4
 firebase-admin
+Pillow
 python-dotenv
+google-cloud-storage
